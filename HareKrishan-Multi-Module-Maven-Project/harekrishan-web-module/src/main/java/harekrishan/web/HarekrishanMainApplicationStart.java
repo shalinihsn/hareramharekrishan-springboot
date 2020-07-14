@@ -17,6 +17,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
  
   public class HarekrishanMainApplicationStart { 
 	  public static void main(String[] args) {
+		  
   SpringApplication.run(HarekrishanMainApplicationStart.class, args); }
   
   }
