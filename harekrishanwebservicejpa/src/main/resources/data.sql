@@ -1,0 +1,22 @@
+insert into employee values(1,'GokulDham','Universe Creator Operator Destroyer','HareKrishan');
+insert into employee values(2,'Dharti','Bhakt','HareKrishanShalini');
+insert into employee values(3,'Dharti','child','HareKrishanGauri');
+insert into employee values(4,'Dharti','lead Data Scientist','HareKrishanAmit');
+insert into employee values(5,'Dharti','Bhakt','HareKrishanIndu');
+insert into employee values(6,'Dharti','Bhakt','HareKrishanRenu');
+insert into employee values(7,'Dharti','Student','HareKrishanDaksha');
+insert into employee values(8,'Dharti','Student','HareKrishanDivi');
+insert into employee values(9,'Dharti','Teacher','HareKrishanAnita');
+insert into employee values(10,'Dharti','Student','HareKrishanDolly');
+insert into employee values(11,'Dharti','Software Engineer','HareKrishanNikhil');
+insert into employee values(12,'Dharti','Software Engineer','HareKrishanNaveen');
+insert into employee values(13,'Dharti','Government Services','HareKrishanMohinder');
+insert into employee values(14,'Dharti','Housewife','HareKrishanKanta');
+insert into employee values(16,'Dharti','Pharmacist','HareKrishanAakriti');
+insert into employee values(17,'Dharti','Bhakt','HareKrishanSanjay');
+insert into employee values(18,'Dharti','Bhakt','HareKrishanTushar');
+insert into employee values(19,'Dharti','Student','HareKrishanBhamini');
+insert into employee values(20,'Dharti','Student','HareKrishanRadhika');
+insert into employee values(21,'Dharti','Embedded Engineer','HareKrishanSahil');
+insert into employee values(22,'Dharti','Student','HareKrishanRaghav');
+
